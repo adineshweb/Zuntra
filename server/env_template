@@ -1,0 +1,6 @@
+PORT=5000
+MONGO_URI=mongodb+srv://placeholder:placeholder@cluster.mongodb.net/pinterest_clone?retryWrites=true&w=majority
+JWT_SECRET=pinterest_super_secret_key_12345
+CLOUDINARY_CLOUD_NAME=placeholder_cloud_name
+CLOUDINARY_API_KEY=placeholder_api_key
+CLOUDINARY_API_SECRET=placeholder_api_secret
